@@ -24,8 +24,15 @@ Ensure you have MATLAB installed on your system as the provided scripts are in M
 
 4. Run the `main.m` file. Extracted features will be saved in the specified directory.
 
+### Extracting Deep-Derived Features
+For deep-derived features, we utilize a pre-trained VGG16 model:
+1. Navigate to the `features` folder.
+2. Open the `extracting_CNN_features.m` file.
+3. Ensure you have a trained VGG16 model file in your directory.
+4. Run the `extracting_CNN_features.m` script to extract features using the VGG16 model.
+
 ### Classification
-1. Use the files `Do_compute_binary_classification.m` in the `features` folder for classification.
+1. Use the file `Do_compute_binary_classification.m` in the `features` folder for classification.
 2. Ensure you configure your paths and parameters as needed before running the classification scripts.
 
 ## Citing This Work
