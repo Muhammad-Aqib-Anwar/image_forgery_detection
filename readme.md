@@ -8,6 +8,15 @@ This project is designed for feature extraction from a publicly available datase
 ### Prerequisites
 Ensure you have MATLAB installed on your system as the provided scripts are in MATLAB format.
 
+### Dataset
+This project utilizes three publicly available datasets for training and testing the image forgery detection models:
+1. **Korus**: [RGB:1980x1080x3]. Access it [here](http://kt.agh.edu.pl/korus).
+2. **Casia**: [RGB:384×256X3]. Access it [here](http://forensics.idealtest.org/).
+3. **DVMM**: [Grayscale:128x128]. Access it [here](ttp://www.ee.columbia.edu/ln/dvmm/downloads/ AuthSplicedDataSet/dlform.html).
+
+Please download and place these datasets in the  folder within the project directory before proceeding with the feature extraction.
+
+
 ### Extracting Features
 1. Navigate to the `features` folder.
 2. Open the `main.m` file.
