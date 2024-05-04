@@ -8,7 +8,7 @@ This project is designed for feature extraction from a publicly available datase
 ### Prerequisites
 Ensure you have MATLAB installed on your system as the provided scripts are in MATLAB format.
 
-### Dataset
+### Datasets
 This project utilizes three publicly available datasets for training and testing the image forgery detection models:
 1. **Korus**: [RGB: 1980x1080x3]. Access it [here](http://kt.agh.edu.pl/korus).
 2. **Casia**: [RGB: 384×256X3]. Access it [here](http://forensics.idealtest.org/).
