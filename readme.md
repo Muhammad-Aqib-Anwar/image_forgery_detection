@@ -10,7 +10,7 @@ Ensure you have MATLAB installed on your system as the provided scripts are in M
 
 ### Datasets
 This project utilizes three publicly available datasets for training and testing the image forgery detection models:
-1. **Korus**: [RGB: 1980x1080x3]. Access it [here](http://kt.agh.edu.pl/korus).
+1. **Korus**: [RGB: 1920x1080x3]. Access it [here](http://kt.agh.edu.pl/korus).
 2. **Casia**: [RGB: 384×256X3]. Access it [here](http://forensics.idealtest.org/).
 3. **DVMM**: [Grayscale: 128x128]. Access it [here](http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/dlform.html).
 
