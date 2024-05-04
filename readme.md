@@ -37,8 +37,9 @@ Please download and place these datasets in respective folder within the project
 For deep-derived features, we utilize a pre-trained VGG16 model:
 1. Navigate to the `features` folder.
 2. Open the `extracting_CNN_features.m` file.
-3. Ensure you have a trained VGG16 model file in folder `matconvnet`. Access it [here](http://www.vlfeat.org/matconvnet).
-4. Run the `extracting_CNN_features.m` script to extract features using the VGG16 model.
+3. Ensure you have a trained VGG16 model in the `matconvnet` folder. If you do not have the model, download it from [MatConvNet](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat) (direct link to the model).
+4. Place the downloaded VGG16 model in the `matconvnet` directory within your project folder.
+5. Run the `extracting_CNN_features.m` script to extract features using the VGG16 model.
 
 ### Classification
 1. Use the file `Do_compute_binary_classification.m` in the `features` folder for classification.
