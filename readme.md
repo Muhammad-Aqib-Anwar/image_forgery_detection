@@ -19,7 +19,7 @@ Ensure you have MATLAB installed on your system as the provided scripts are in M
    - Energy 
    - DWT
    - YCbCr
-   ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+   ![GitHub Logo]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://raw.githubusercontent.com/Muhammad-Aqib-Anwar/image_forgery_detection/main/imgs/lbp-k.png))
 
 4. Run the `main.m` file. Extracted features will be saved in the specified directory.
 
