@@ -1,4 +1,4 @@
-# Feature Extraction and Classification Project
+# Image forgery detection by transforming local descriptors into deep-derived features
 
 ## Overview
 This project is designed for feature extraction from a publicly available dataset and classification using the LIBSVM tool. The code is structured to easily select and extract specific features for further analysis.
@@ -20,7 +20,7 @@ Ensure you have MATLAB installed on your system as the provided scripts are in M
    - DWT
    - YCbCr
 
-  ![Example Image](/Users/apple/Documents/GitHub/image_forgery_detection/imgs/feature_rep.png)
+  ![Feature Reperestation](imgs/feature_rep.png)
 
 4. Run the `main.m` file. Extracted features will be saved in the specified directory.
 
